@@ -1,0 +1,140 @@
+
+Wed Dec 09                                                                                                                                                                                     page    1
+                                                                                          REPORTE DE EMPLEADOS
+
+NOMBRE          I APELLIDO PATERNO     APELLIDO MATERNO     CELULAR       EMAIL                     T DEPARTAMENTO                             NUMERO DE EMPLEADO                                       
+--------------- - -------------------- -------------------- ------------- ------------------------- - ---------------------------------------- ------------------                                       
+Pierre            Gasly                Clay                 787-617-8525  pgasly@tororosso.com      A Enfermeria                                             2019                                       
+                                                                                                                                                                                                        
+Paloma          B Gonzalez             Castellanos          939-259-1295  pcast@yahoo.com           G Administracion                                         2001                                       
+                                                                                                                                                                                                        
+Daniel          D Ricciardo                                 787-418-8520  dricciardo@renault.com    G Legal                                                  2014                                       
+                                                                                                                                                                                                        
+Sergio          S Perez                Morales              787-419-8521  sperez@rp.com             A Mercadeo                                               2015                                       
+                                                                                                                                                                                                        
+Lando           L Norris               Ramos                787-412-8522  lnorris@mclaren.com       M Turismo                                                2016                                       
+                                                                                                                                                                                                        
+Higinio           Legaspi              Gongora              787-272-1360  higon@gmail.com           G Mantenimiento                                          2004                                       
+                                                                                                                                                                                                        
+Alexander       A Albon                Morgan               787-517-8524  aalbon@redbull.com        M Ambiental                                              2018                                       
+                                                                                                                                                                                                        
+Carlos          G Macias                                    939-291-1455  carmag@gmail.com          P Ornato                                                 2006                                       
+                                                                                                                                                                                                        
+Carlos          C Sainz                Marrero              787-427-8523  csainz@mclaren.com        G Ambiental                                              2017                                       
+                                                                                                                                                                                                        
+Joaquin         D Hernandez            Laguillo             787-268-1340  jlagui@lycos.com          A Administracion                                         2003                                       
+                                                                                                                                                                                                        
+Erick           A Gomez                angeles              787-250-1250  aa@gmail.com              P Administracion                                         2000                                       
+                                                                                                                                                                                                        
+Simon           I Mendoza              Sanchez              939-303-1515  lhamilton@merc.com        A Contabilidad                                           2008                                       
+                                                                                                                                                                                                        
+Lewis           L Hamilton             Rodriguez            787-374-2015  romo@yahoo.com            G Finanzas                                               2010                                       
+                                                                                                                                                                                                        
+Rodolfo         J Mohar                Montano              787-306-1530  simen@gmail.com           G Ambiental                                              2009                                       
+                                                                                                                                                                                                        
+Max             M Verstappen           Perez                787-321-5879  mverstappen@redbull.com   G Nutricion                                              2012                                       
+                                                                                                                                                                                                        
+Aquiles         F Lopez                Herrera              787-274-1370  alo@yahoo.com             M Enfermeria                                             2005                                       
+                                                                                                                                                                                                        
+Valtteri          Bottas                                    939-655-8547  vbottas@coqui.net         P Ambiental                                              2011                                       
+                                                                                                                                                                                                        
+Charles         C Leclerc              Lugo                 787-587-8714  cleclerc@ferrari.com      M Entretenimiento                                        2013                                       
+                                                                                                                                                                                                        
+Fernando        H Majluf               Guzman               787-296-1480  fema@yahoo.com            G Entretenimiento                                        2007                                       
+                                                                                                                                                                                                        
+Patricia        C Guinto               Guitart              787-264-1320  pguin@gmail.com           P Veterinaria                                            2002                                       
+                                                                                                                                                                                                        
+                                                                                                                                               ------------------                                       
+count                                                                                                                                                          20                                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                          ReporteEmpleados.sql
+
+Wed Dec 09                                                                                                                                                                                     page    1
+                                                                                          REPORTE DE EMPLEADOS
+
+DEPARTAMENTO                               CANTIDAD                                                                                                                                                     
+---------------------------------------- ----------                                                                                                                                                     
+Ambiental                                         4                                                                                                                                                     
+Administracion                                    3                                                                                                                                                     
+Enfermeria                                        2                                                                                                                                                     
+Entretenimiento                                   2                                                                                                                                                     
+Legal                                             1                                                                                                                                                     
+Finanzas                                          1                                                                                                                                                     
+Veterinaria                                       1                                                                                                                                                     
+Nutricion                                         1                                                                                                                                                     
+Ornato                                            1                                                                                                                                                     
+Mantenimiento                                     1                                                                                                                                                     
+Mercadeo                                          1                                                                                                                                                     
+Contabilidad                                      1                                                                                                                                                     
+Turismo                                           1                                                                                                                                                     
+Ingenieria                                        0                                                                                                                                                     
+Limpieza                                          0                                                                                                                                                     
+Recursos Humanos                                  0                                                                                                                                                     
+Gobierno                                          0                                                                                                                                                     
+Operaciones                                       0                                                                                                                                                     
+Construccion                                      0                                                                                                                                                     
+Transportacion                                    0                                                                                                                                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                          ReporteEmpleados.sql
